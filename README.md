@@ -10,7 +10,7 @@ Currently set to public, but if desired we can switch to private (so that only s
 
 We can add folders to hold various types of materials.
 
-*Contents:*
+**Contents:**
 * I created the backbone below based on the resources spreadsheet. We can modify as desired!
 * Direct links to each resource will be added below once resource files are uploaded.
 

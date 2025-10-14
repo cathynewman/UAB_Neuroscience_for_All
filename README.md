@@ -13,6 +13,7 @@ We can add folders to hold various types of materials.
 **Contents:**
 * I created the backbone below based on the resources spreadsheet. We can modify as desired!
 * Direct links to each resource will be added below once resource files are uploaded.
+* Directory structure created, but folders are empty (no materials uploaded yet). Can modify as desired and modify table of contents to match.
 
 # Contents
 

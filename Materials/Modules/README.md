@@ -1,23 +1,71 @@
 # Modules: Training & Activity Documents
 
-**Dissections**
-* Sheep brain
-* Cow eye
+> [!NOTE]
+> I haven't yet added any links to the materials. Once we have a publicly-accessible folder on Google Drive with all these materials, I will add the links! (for example, like the setup for 2025 BAW volunteer materials dir)
 
-**Sensory Activities**
-* Touch
-   * Touch boxes
-   * Two-point discrimination
-* Vision
-   * Illusion Confusion
-   * Prism goggles
-* Taste
-   * Miracle Fruit
-   * PTC Paper
-* Smell
-   * Olfaction Bingo
-* Hearing
-   * Hearing activity
-* Muscle
-   * EMG recording
-   * Noisy Neurons
+> [!TIP]
+> In addition to direct links to Google Drive documents, we can also put these docs as PDF files inside their respective folders here, if desired.
+
+## Sensory Activities
+
+**TOUCH**
+* 2-point discrimination
+   * [Background information]()
+   * [Activity instructions]()
+   * [Discrimination threshold chart]()
+* Touch boxes
+   * [Background information]()
+   * [Activity instructions]()
+   * [Additional articles]()
+
+**VISION**
+* Prism goggles
+   * [Activity instructions]()
+* Illusion Confusion
+   * [Poster]()
+   * [Activity instructions]()
+   * [Additional materials]()
+
+**TASTE**
+* Miracle Fruit
+   * [Background information]()
+   * [Activity instructions]()
+   * [Rating forms]()
+* PTC Paper
+   * [Background information]()
+   * [Activity instructions]()
+
+**SMELL**
+* Olfaction Bingo
+   * [Activity instructions]()
+   * [Bingo card]()
+   * [Supplemental information]()
+
+**HEARING**
+* Sound Bingo (Listening Lotto)
+   * [Background information]()
+   * [Activity instructions]()
+   * [Sound files]()
+
+**MUSCLE**
+* EMG recording
+   * [Activity instructions]()
+   * [Supplemental materials]()
+* Noisy Neurons
+   * [Background information]()
+   * [Activity instructions]()
+   * [Additional materials]()
+
+## Dissections**
+
+**SHEEP BRAIN**
+* [Activity instructions]()
+* [Eye diagram]()
+* [Additional materials]()
+
+**SHEEP/COW EYE**
+* [Activity instructions]()
+* [Brain anatomy guide]()
+* [Brain diagram]()
+* [Additional materials]()
+* [Previous dissection videos]()

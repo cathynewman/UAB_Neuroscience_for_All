@@ -4,8 +4,6 @@
 
 Repository for materials for Neuroscience for All
 
-
-
 # Contents
 
 ## Questions & Discussion
@@ -24,31 +22,13 @@ When you create a new issue or discussion post, you can select relevant label(s)
 [Neuroscience for All website](https://www.brainawarenessuab.com/neuroscience-for-all)
 
 ### Administrative Materials
-1. Brain Awareness Week
-2. Brain Bites
-3. Brain Chats
-4. Brain Snacks
+
+Link to **[Administrative Materials](Neuroscience_for_All/Admin_materials/README.md)** landing page
+
+Administrative materials for Brain Awareness Week, Brain Bites, Brain Chats, and Brain Snacks
 
 ### Activity Module Materials
 
-**Dissections**
-1. Sheep brain
-2. Cow eye
+Link to **[Activity Modules](Neuroscience_for_All/Modules/README.md)** landing page
 
-**Sensory Activities**
-1. Touch
-   1. Touch boxes
-   2. Two-point discrimination
-2. Vision
-   1. Illusion Confusion
-   2. Prism goggles
-3. Taste
-   1. Miracle Fruit
-   2. PTC Paper
-4. Smell
-   1. Olfaction Bingo
-5. Hearing
-   1. Hearing activity
-6. Muscle
-   1. EMG recording
-   2. Noisy Neurons
+Training and activity materials for **dissections** (sheep brain, sheep/cow eye) and **sensory activities** (touch, vision, taste, smell, hearing, muscles)

@@ -14,25 +14,26 @@ Do you have a question? Something not working right? Want help or feedback? Have
 
 A couple of options: **issues** or **discussion board**. Not sure where to post? It doesn't really matter which place you choose. Find both tabs at the top of this repository page or linked below:
 
-* [ISSUES board](https://github.com/cathynewman/UAB_Neuroscience_for_All/issues) -- Great for questions and help
-* [DISCUSSION board](https://github.com/cathynewman/UAB_Neuroscience_for_All/discussions) -- Great for general discussion
+* :question: [ISSUES board](https://github.com/cathynewman/UAB_Neuroscience_for_All/issues) -- Great for questions and help
+* :speaking_head: [DISCUSSION board](https://github.com/cathynewman/UAB_Neuroscience_for_All/discussions) -- Great for general discussion
 
-When you create a new issue or discussion post, you can select relevant label(s) on the right sidebar to best categorize your post. (For browsing, you can filter issues or discussions by label.)
+> [!TIP]
+> When you create a new issue or discussion post, you can select relevant label(s) on the right sidebar to best categorize your post. (For browsing, you can filter issues or discussions by label.)
 
 ## Neuroscience for All: Materials
 
+:star: **Main landing page for [MATERIALS](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials)**
+
 To find our materials, you can either navigate through the Materials folder in the directory tree above or use the direct links below.
 
-**Main landing page for [MATERIALS](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials)**
+### :clipboard: Administrative Materials
 
-### Administrative Materials
-
-Direct link to [Administrative Materials](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials) folder
+Link to [Administrative Materials](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials) folder
 
 Administrative materials for Brain Awareness Week, Brain Bites, Brain Chats, and Brain Snacks
 
-### Activity Module Materials
+### :goggles: Activity Module Materials
 
-Direct link to [Activity Modules](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Modules) folder
+Link to [Activity Modules](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Modules) folder
 
 Training and activity materials for **dissections** (sheep brain, sheep/cow eye) and **sensory activities** (touch, vision, taste, smell, hearing, muscles)

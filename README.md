@@ -1,8 +1,10 @@
 # UAB Neuroscience for All
 
-[UAB Comprehensive Neuroscience Center](https://www.uab.edu/medicine/cnc/)
-
 Repository for materials for Neuroscience for All
+
+Links to UAB websites:
+* [UAB Comprehensive Neuroscience Center](https://www.uab.edu/medicine/cnc/)
+* [Neuroscience for All](https://www.brainawarenessuab.com/neuroscience-for-all)
 
 # Contents
 
@@ -19,16 +21,18 @@ When you create a new issue or discussion post, you can select relevant label(s)
 
 ## Neuroscience for All: Materials
 
-[Neuroscience for All website](https://www.brainawarenessuab.com/neuroscience-for-all)
+To find our materials, you can either navigate through the Materials folder in the directory tree above or use the direct links below.
+
+**Main landing page for [MATERIALS](Materials/README.md)**
 
 ### Administrative Materials
 
-Link to **[Administrative Materials](Materials/Admin_materials/README.md)** landing page
+Direct link to [Administrative Materials](Materials/Admin_materials/README.md) folder
 
 Administrative materials for Brain Awareness Week, Brain Bites, Brain Chats, and Brain Snacks
 
 ### Activity Module Materials
 
-Link to **[Activity Modules](Materials/Modules/README.md)** landing page
+Direct link to [Activity Modules](Materials/Modules/README.md) folder
 
 Training and activity materials for **dissections** (sheep brain, sheep/cow eye) and **sensory activities** (touch, vision, taste, smell, hearing, muscles)

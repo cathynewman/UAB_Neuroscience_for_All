@@ -6,7 +6,7 @@ Links to UAB websites:
 * [UAB Comprehensive Neuroscience Center](https://www.uab.edu/medicine/cnc/)
 * [Neuroscience for All](https://www.brainawarenessuab.com/neuroscience-for-all)
 
-## Neuroscience for All: Materials
+# Materials
 
 :star: **Main landing page for [MATERIALS](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials)**
 
@@ -24,7 +24,7 @@ Link to [Activity Modules](https://github.com/cathynewman/UAB_Neuroscience_for_A
 
 Training and activity materials for **dissections** (sheep brain, sheep/cow eye) and **sensory activities** (touch, vision, taste, smell, hearing, muscles)
 
-## Questions & Discussion
+# Questions & Discussion
 
 Do you have a question? Something not working right? Want help or feedback? Have an idea or experience to share? We got you!
 

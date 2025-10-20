@@ -14,8 +14,8 @@ Do you have a question? Something not working right? Want help or feedback? We g
 
 A couple of options: **issues** or **discussion board**. Not sure where to post? It doesn't really matter which place you choose. Find both tabs at the top of this repository page or linked below:
 
-* [ISSUES board](https://github.com/cathynewman/UAB_Brain_Awareness_Week/issues) -- Great for questions and help
-* [DISCUSSION board](https://github.com/cathynewman/UAB_Brain_Awareness_Week/discussions) -- Great for general discussion
+* [ISSUES board](https://github.com/cathynewman/UAB_Neuroscience_for_All/issues) -- Great for questions and help
+* [DISCUSSION board](https://github.com/cathynewman/UAB_Neuroscience_for_All/discussions) -- Great for general discussion
 
 ## Neuroscience for All: Materials
 

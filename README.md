@@ -12,9 +12,10 @@ Repository for materials for Neuroscience for All
 
 Do you have a question? Something not working right? Want help or feedback? We got you!
 
-A couple of options (not sure where to post? it doesn't really matter which place)
-* [ISSUES board](issues) -- Great for questions and help
-* [DISCUSSION board](discussions) -- Great for general discussion
+A couple of options: **issues** or **discussion board**. Not sure where to post? It doesn't really matter which place you choose. Find both tabs at the top of this repository page or linked below:
+
+* [ISSUES board](https://github.com/cathynewman/UAB_Brain_Awareness_Week/issues) -- Great for questions and help
+* [DISCUSSION board](https://github.com/cathynewman/UAB_Brain_Awareness_Week/discussions) -- Great for general discussion
 
 ## Neuroscience for All: Materials
 

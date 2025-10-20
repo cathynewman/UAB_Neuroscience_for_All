@@ -4,30 +4,29 @@
 
 Repository for materials for Neuroscience for All
 
-# Temporary Notes
 
-Currently set to public, but if desired we can switch to private (so that only specified GitHub users can access) and/or move repository to a different location.
-
-We can add folders to hold various types of materials.
-
-**Contents:**
-* I created the backbone below based on the resources spreadsheet. We can modify as desired!
-* Direct links to each resource will be added below once resource files are uploaded.
-* Directory structure created, but folders are empty (no materials uploaded yet). Can modify as desired and modify table of contents to match.
 
 # Contents
 
-Neuroscience for All: Materials
+## Questions & Discussion
+
+Do you have a question? Something not working right? Want help or feedback? We got you!
+
+A couple of options (not sure where to post? it doesn't really matter which place)
+* [ISSUES board](issues) -- Great for questions and help
+* [DISCUSSION board](discussions) -- Great for general discussion
+
+## Neuroscience for All: Materials
 
 [Neuroscience for All website](https://www.brainawarenessuab.com/neuroscience-for-all)
 
-## Administrative Materials
+### Administrative Materials
 1. Brain Awareness Week
 2. Brain Bites
 3. Brain Chats
 4. Brain Snacks
 
-## Activity Module Materials
+### Activity Module Materials
 
 **Dissections**
 1. Sheep brain

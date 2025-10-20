@@ -3,31 +3,21 @@
 Here is where you will find all of our materials for Neuroscience for All activities. You can navigate through the folders above or use the direct links below.
 
 ## Administrative Materials
-* [Brain Awareness Week](Admin_materials/Brain_Awareness_Week/README.md)
-* [Brain Bites](Admin_materials/Brain_Bites/README.md)
-* [Brain Chats](Admin_materials/Brain_Chats/README.md)
-* [Brain Snacks](Admin_materials/Brain_Snacks/README.md)
+* [Brain Awareness Week](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials/Brain_Awareness_Week)
+* [Brain Bites](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials/Brain_Bites)
+* [Brain Chats](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials/Brain_Chats)
+* [Brain Snacks](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials/Brain_Snacks)
 
 ## Activity Module Materials
 
 **Dissections**
 * Sheep brain
-* Cow eye
+* Sheep/Cow eye
 
 **Sensory Activities**
-* Touch
-   * Touch boxes
-   * Two-point discrimination
-* Vision
-   * Illusion Confusion
-   * Prism goggles
-* Taste
-   * Miracle Fruit
-   * PTC Paper
-* Smell
-   * Olfaction Bingo
+* Touch (2-point discrimination, touch boxes)
+* Vision (Illusion Confusion, Prism Goggles)
+* Taste (Miracle Fruit, PTC paper)
+* Smell (Olfaction Bingo)
 * Hearing
-   * Hearing activity
-* Muscle
-   * EMG recording
-   * Noisy Neurons
+* Muscle (EMG recording, Noisy Neurons)

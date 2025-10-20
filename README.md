@@ -23,16 +23,16 @@ When you create a new issue or discussion post, you can select relevant label(s)
 
 To find our materials, you can either navigate through the Materials folder in the directory tree above or use the direct links below.
 
-**Main landing page for [MATERIALS](Materials/README.md)**
+**Main landing page for [MATERIALS](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials)**
 
 ### Administrative Materials
 
-Direct link to [Administrative Materials](Materials/Admin_materials/README.md) folder
+Direct link to [Administrative Materials](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials) folder
 
 Administrative materials for Brain Awareness Week, Brain Bites, Brain Chats, and Brain Snacks
 
 ### Activity Module Materials
 
-Direct link to [Activity Modules](Materials/Modules/README.md) folder
+Direct link to [Activity Modules](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Modules) folder
 
 Training and activity materials for **dissections** (sheep brain, sheep/cow eye) and **sensory activities** (touch, vision, taste, smell, hearing, muscles)

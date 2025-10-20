@@ -1,8 +1,8 @@
-# Materials for UAB's Brain Awareness Week
+# UAB Neuroscience for All
 
 [UAB Comprehensive Neuroscience Center](https://www.uab.edu/medicine/cnc/)
 
-Repository for materials for Neuroscience for All and Brain Awareness Week
+Repository for materials for Neuroscience for All
 
 # Temporary Notes
 
@@ -17,43 +17,36 @@ We can add folders to hold various types of materials.
 
 # Contents
 
-## Advertising
-
-1. Advertising materials
-
-## Brain Awareness Week
-
-1. Admin materials
-2. Training & activity materials: Dissections
-   1. Sheep brain
-   2. Cow eye
-3. Training & activity materials: Sensory Activities
-   1. Touch
-      1. Touch boxes
-      2. Two-point discrimination
-   2. Vision
-      1. Illusion Confusion
-      2. Prism goggles
-   3. Taste
-      1. Miracle Fruit
-      2. PTC Paper
-   4. Smell
-      1. Olfaction Bingo
-   5. Hearing
-      1. Hearing activity
-   6. Muscle
-      1. EMG recording
-      2. Noisy Neurons
-
-## Funding
-
-1. IBRO Grant
-
-## Neuroscience For All
+Neuroscience for All: Materials
 
 [Neuroscience for All website](https://www.brainawarenessuab.com/neuroscience-for-all)
 
-1. Brain Chats resources
-2. Brain Snacks resources
-3. NeurosCafe resources
-4. Other admin resources
+## Administrative Materials
+1. Brain Awareness Week
+2. Brain Bites
+3. Brain Chats
+4. Brain Snacks
+
+## Activity Module Materials
+
+**Dissections**
+1. Sheep brain
+2. Cow eye
+
+**Sensory Activities**
+1. Touch
+   1. Touch boxes
+   2. Two-point discrimination
+2. Vision
+   1. Illusion Confusion
+   2. Prism goggles
+3. Taste
+   1. Miracle Fruit
+   2. PTC Paper
+4. Smell
+   1. Olfaction Bingo
+5. Hearing
+   1. Hearing activity
+6. Muscle
+   1. EMG recording
+   2. Noisy Neurons

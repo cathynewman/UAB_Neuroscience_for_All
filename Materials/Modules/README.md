@@ -8,7 +8,7 @@
 
 ## Sensory Activities
 
-**TOUCH**
+:raised_hand_with_fingers_splayed: **TOUCH**
 * 2-point discrimination
    * [Background information]()
    * [Activity instructions]()
@@ -18,7 +18,7 @@
    * [Activity instructions]()
    * [Additional articles]()
 
-**VISION**
+:eye: **VISION**
 * Prism goggles
    * [Activity instructions]()
 * Illusion Confusion
@@ -26,7 +26,7 @@
    * [Activity instructions]()
    * [Additional materials]()
 
-**TASTE**
+:tongue: **TASTE**
 * Miracle Fruit
    * [Background information]()
    * [Activity instructions]()
@@ -35,19 +35,19 @@
    * [Background information]()
    * [Activity instructions]()
 
-**SMELL**
+:nose: **SMELL**
 * Olfaction Bingo
    * [Activity instructions]()
    * [Bingo card]()
    * [Supplemental information]()
 
-**HEARING**
+:ear: **HEARING**
 * Sound Bingo (Listening Lotto)
    * [Background information]()
    * [Activity instructions]()
    * [Sound files]()
 
-**MUSCLE**
+:muscle: **MUSCLE**
 * EMG recording
    * [Activity instructions]()
    * [Supplemental materials]()
@@ -58,12 +58,12 @@
 
 ## Dissections
 
-**SHEEP BRAIN**
+:brain: **SHEEP BRAIN**
 * [Activity instructions]()
 * [Eye diagram]()
 * [Additional materials]()
 
-**SHEEP/COW EYE**
+:eye: **SHEEP/COW EYE**
 * [Activity instructions]()
 * [Brain anatomy guide]()
 * [Brain diagram]()

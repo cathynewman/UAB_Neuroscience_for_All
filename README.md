@@ -23,12 +23,12 @@ When you create a new issue or discussion post, you can select relevant label(s)
 
 ### Administrative Materials
 
-Link to **[Administrative Materials](Neuroscience_for_All/Admin_materials/README.md)** landing page
+Link to **[Administrative Materials](Materials/Admin_materials/README.md)** landing page
 
 Administrative materials for Brain Awareness Week, Brain Bites, Brain Chats, and Brain Snacks
 
 ### Activity Module Materials
 
-Link to **[Activity Modules](Neuroscience_for_All/Modules/README.md)** landing page
+Link to **[Activity Modules](Materials/Modules/README.md)** landing page
 
 Training and activity materials for **dissections** (sheep brain, sheep/cow eye) and **sensory activities** (touch, vision, taste, smell, hearing, muscles)

@@ -6,8 +6,6 @@ Links to UAB websites:
 * [UAB Comprehensive Neuroscience Center](https://www.uab.edu/medicine/cnc/)
 * [Neuroscience for All](https://www.brainawarenessuab.com/neuroscience-for-all)
 
-# Contents
-
 ## Neuroscience for All: Materials
 
 :star: **Main landing page for [MATERIALS](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials)**

@@ -18,7 +18,7 @@ A couple of options: **issues** or **discussion board**. Not sure where to post?
 * :speaking_head: [DISCUSSION board](https://github.com/cathynewman/UAB_Neuroscience_for_All/discussions) -- Great for general discussion
 
 > [!TIP]
-> When you create a new issue or discussion post, you can select relevant label(s) on the right sidebar to best categorize your post. (For browsing, you can filter issues or discussions by label.)
+> When you create a new issue or discussion post, you can select relevant **label(s)** on the right sidebar to best categorize your post. (For browsing, you can filter issues or discussions by label.)
 
 ## Neuroscience for All: Materials
 

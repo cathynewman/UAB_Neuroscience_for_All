@@ -56,7 +56,7 @@
    * [Activity instructions]()
    * [Additional materials]()
 
-## Dissections**
+## Dissections
 
 **SHEEP BRAIN**
 * [Activity instructions]()

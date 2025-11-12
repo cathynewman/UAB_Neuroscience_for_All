@@ -4,23 +4,23 @@ Repository for materials for Neuroscience for All
 
 Links to UAB websites:
 * [UAB Comprehensive Neuroscience Center](https://www.uab.edu/medicine/cnc/)
-* [Neuroscience for All](https://www.brainawarenessuab.com/neuroscience-for-all)
+* [Neuroscience for All](https://www.brainawarenessuab.com/)
 
 # Materials
 
 :star: **Main landing page for [MATERIALS](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials)**
 
-To find our materials, you can either navigate through the Materials folder in the directory tree above or use the direct links below.
+All of our administrative and activity materials (including training materials) are hosted on Google Drive. On our materials page here, you will find links to all the materials on the Drive, where you can view and download the documents.
 
 ### :clipboard: Administrative Materials
 
-Link to [Administrative Materials](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials) folder
+Link to [Administrative Materials](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials)
 
 Administrative materials for Brain Awareness Week, Brain Bites, Brain Chats, and Brain Snacks
 
 ### :goggles: Activity Module Materials
 
-Link to [Activity Modules](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Modules) folder
+Link to [Activity Modules](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Modules)
 
 Training and activity materials for **dissections** (sheep brain, sheep/cow eye) and **sensory activities** (touch, vision, taste, smell, hearing, muscles)
 

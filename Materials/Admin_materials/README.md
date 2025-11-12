@@ -1,9 +1,9 @@
 # Administrative Materials
 
-[Brain Awareness Week](Brain_Awareness_Week/README.md)
+Brain Awareness Week
 
-[Brain Bites](Brain_Bites/README.md)
+Brain Bites
 
-[Brain Chats](Brain_Chats/README.md)
+Brain Chats
 
-[Brain Snacks](Brain_Snacks/README.md)
+Brain Snacks

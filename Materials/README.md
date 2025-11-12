@@ -1,12 +1,15 @@
 # Materials Repository
 
-Here is where you will find all of our materials for Neuroscience for All activities. You can navigate through the folders above or use the direct links below.
+Here is where you will find links to all of our materials for Neuroscience for All activities.
 
 ## :clipboard: Administrative Materials
-* [Brain Awareness Week](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials/Brain_Awareness_Week)
-* [Brain Bites](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials/Brain_Bites)
-* [Brain Chats](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials/Brain_Chats)
-* [Brain Snacks](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials/Brain_Snacks)
+
+Link to main **[ADMINISTRATIVE MATERIALS](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Materials/Admin_materials)** landing page
+
+* Brain Awareness Week
+* Brain Bites
+* Brain Chats
+* Brain Snacks
 
 ## :goggles: Activity Module Materials
 

@@ -4,9 +4,9 @@
 
 :raised_hand_with_fingers_splayed: **TOUCH**
 * 2-point discrimination
-   * Background information - [webpage](pages/touch_two-point-discrimination.md) | [doc](https://docs.google.com/document/d/1fSs6coTgcHRratL2tlU7eB-ahh5-RGH8jcpM4Mf73Y4/edit?usp=drive_link)
-   * [Activity instructions](https://docs.google.com/document/d/1KMBslo6_AMJe0_nJ6tG2EdgIntHITATDgrirFoiEsZY/edit?usp=drive_link)
-   * [Discrimination threshold chart](https://docs.google.com/document/d/1qB65IXpxbrD0knaMHpXo3fhkA5bYm6zyslGg8Bi8YqM/edit?usp=drive_link)
+   * Background information - [webpage](pages/touch_2pt_info.md) | [doc](https://docs.google.com/document/d/1fSs6coTgcHRratL2tlU7eB-ahh5-RGH8jcpM4Mf73Y4/edit?usp=drive_link)
+   * Activity instructions - [webpage](pages/touch_2pt_instructions.md) | [doc](https://docs.google.com/document/d/1KMBslo6_AMJe0_nJ6tG2EdgIntHITATDgrirFoiEsZY/edit?usp=drive_link)
+   * Discrimination threshold chart - [pdf](https://drive.google.com/file/d/188JTB_C_8qtGBsGbXDE-qEcDDtGw41DD/view?usp=drive_link) | [doc](https://docs.google.com/document/d/1qB65IXpxbrD0knaMHpXo3fhkA5bYm6zyslGg8Bi8YqM/edit?usp=drive_link)
 * Touch boxes
    * [Background information](https://docs.google.com/presentation/d/1akPJY_hbim6OuIPkw_M-Q_P5UQHsbcpYLrsbcWVzLgs/edit?usp=drive_link)
    * [Activity instructions](https://docs.google.com/document/d/10mi5ZO-mQ-5tziZWKFGRQSe2kdvN0ky9y171vU1ECRo/edit?usp=drive_link)

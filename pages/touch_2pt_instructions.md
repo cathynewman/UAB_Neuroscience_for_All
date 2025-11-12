@@ -61,10 +61,10 @@ This may already be complete - see kit
 
 1. Have the subject close their eyes so that they cannot see the paperclips touch the skin.
 2. Start with the wrist and place the two points of the paperclip as close together as possible and touch the skin.
-  1. It is important to touch the skin with the two ends of the paper clip simultaneously with the same pressure.
+   * It is important to touch the skin with the two ends of the paper clip simultaneously with the same pressure.
 3. Have the subject indicate how many points of the paper clip they can feel.
-  1. If they feel 2 points, move the ends of the paperclip closer together and repeat the procedure.
-  2. If they feel 1 point, have your partner increase the distance between the ends slightly and repeat the procedure.
+   * If they feel 2 points, move the ends of the paperclip closer together and repeat the procedure.
+   * If they feel 1 point, have your partner increase the distance between the ends slightly and repeat the procedure.
 4. Continue this until you find the distance between the points that always gives the sensation of having 2 points touch the control location, but if this distance is reduced, it only feels like a single point. This is the TWO-POINT discrimination threshold.
 5. Optional: Record the two point discrimination threshold in the chart.
 6. Switch roles with your partner and repeat.

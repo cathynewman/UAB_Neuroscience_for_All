@@ -3,7 +3,7 @@
 ## Sensory Activities
 
 :raised_hand_with_fingers_splayed: **TOUCH**
-* 2-point discrimination
+* 2-point discrimination ([page](pages/touch_two-point-discrimination.md))
    * [Background information](https://docs.google.com/document/d/1fSs6coTgcHRratL2tlU7eB-ahh5-RGH8jcpM4Mf73Y4/edit?usp=drive_link)
    * [Activity instructions](https://docs.google.com/document/d/1KMBslo6_AMJe0_nJ6tG2EdgIntHITATDgrirFoiEsZY/edit?usp=drive_link)
    * [Discrimination threshold chart](https://docs.google.com/document/d/1qB65IXpxbrD0knaMHpXo3fhkA5bYm6zyslGg8Bi8YqM/edit?usp=drive_link)

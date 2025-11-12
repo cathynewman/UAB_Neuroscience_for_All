@@ -8,8 +8,8 @@
    * Activity instructions - [webpage](pages/touch_2pt_instructions.md) | [doc](https://docs.google.com/document/d/1KMBslo6_AMJe0_nJ6tG2EdgIntHITATDgrirFoiEsZY/edit?usp=drive_link)
    * Discrimination threshold chart - [pdf](https://drive.google.com/file/d/188JTB_C_8qtGBsGbXDE-qEcDDtGw41DD/view?usp=drive_link) | [doc](https://docs.google.com/document/d/1qB65IXpxbrD0knaMHpXo3fhkA5bYm6zyslGg8Bi8YqM/edit?usp=drive_link)
 * Touch boxes
-   * [Background information](https://docs.google.com/presentation/d/1akPJY_hbim6OuIPkw_M-Q_P5UQHsbcpYLrsbcWVzLgs/edit?usp=drive_link)
-   * [Activity instructions](https://docs.google.com/document/d/10mi5ZO-mQ-5tziZWKFGRQSe2kdvN0ky9y171vU1ECRo/edit?usp=drive_link)
+   * Background information - [slides](https://docs.google.com/presentation/d/1akPJY_hbim6OuIPkw_M-Q_P5UQHsbcpYLrsbcWVzLgs/edit?usp=drive_link)
+   * Activity instructions - [webpage](pages/touch_boxes_instructions.md) | [doc](https://docs.google.com/document/d/10mi5ZO-mQ-5tziZWKFGRQSe2kdvN0ky9y171vU1ECRo/edit?usp=drive_link)
    * [Supplemental articles](https://drive.google.com/drive/folders/1Jznkt4kB-3_1CNbJA6y22sGXQtZPBq5R?usp=drive_link)
 
 :eye: **VISION**

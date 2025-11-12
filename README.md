@@ -18,7 +18,7 @@ Administrative materials for Brain Awareness Week, Brain Bites, Brain Chats, and
 
 ### :goggles: Activity Module Materials
 
-Link to [Activity Modules](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Module_materials.md)
+Link to [Activity Modules](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Activity_modules.md)
 
 Training and activity materials for **dissections** (sheep brain, sheep/cow eye) and **sensory activities** (touch, vision, taste, smell, hearing, muscles)
 

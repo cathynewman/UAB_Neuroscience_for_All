@@ -32,7 +32,7 @@ This activity aims to educate participants about how the eyes and brain collabor
 
 **Hermann Grid Illusion:** This illusion involves perceiving ghost-like grey blobs at the intersections of a grid on a contrasting background. The grey blobs disappear when directly fixating on an intersection. The illusion arises from the interaction between light and dark areas in the visual field, leading to perceived discrepancies in brightness.
 
-![Hermann grid](images/illusion6_Hermann-grid.png)
+![Hermann grid](images/illusion6_Hermann-grid.jpg)
 
 **Adelson's Same Color Illusion:** In this illusion, two squares of identical color appear to be different due to the surrounding context. For example, a square surrounded by lighter blocks may appear darker than an identical square surrounded by darker blocks. This phenomenon occurs because the brain interprets colors relative to their surrounding context, leading to perceptual discrepancies in brightness and shading.
 

@@ -22,12 +22,12 @@
 
 :tongue: **TASTE**
 * Miracle Fruit
-   * [Background information](https://docs.google.com/document/d/1yhMpyt2-4D-UNEJhRe-e5-a5BpynOMgwhTwMae3MV0c/edit?usp=drive_link)
-   * [Activity instructions](https://docs.google.com/document/d/15cKz0MfkXqhwOcTIUeOLTTM94fR9iTRYohKBVNRf560/edit?usp=drive_link)
-   * [Rating forms](https://docs.google.com/document/d/1bhoHrl7lnJ9e3Nc9uJE-j7L1bsDdUueS72gvS-CkbaU/edit?usp=drive_link)
+   * Background information - [webpage](pages/taste_miraclefruit_info.md) | [doc](https://docs.google.com/document/d/1yhMpyt2-4D-UNEJhRe-e5-a5BpynOMgwhTwMae3MV0c/edit?usp=drive_link)
+   * Activity instructions - [webpage](pages/taste_miraclefruit_instructions.md) | [doc](https://docs.google.com/document/d/15cKz0MfkXqhwOcTIUeOLTTM94fR9iTRYohKBVNRf560/edit?usp=drive_link)
+   * Rating form - [pdf](https://drive.google.com/file/d/1ku9lWfulRvVgpGtOKUSL92kNbeM4CFyM/view?usp=drive_link) | [doc](https://docs.google.com/document/d/1bhoHrl7lnJ9e3Nc9uJE-j7L1bsDdUueS72gvS-CkbaU/edit?usp=drive_link)
 * PTC Paper
-   * [Background information](https://docs.google.com/document/d/11XPJjmuOiyEAnhlLznOqw6mf8gSN32Blrpg9I4epHxA/edit?usp=drive_link)
-   * [Activity instructions](https://docs.google.com/document/d/1InvMdQtSvZHIKlvfyIwTLYAkcDLCX2Gg/edit?usp=drive_link&ouid=108188149784816728586&rtpof=true&sd=true)
+   * Background information - [webpage](pages/taste_PTC_info.md) | [doc](https://docs.google.com/document/d/11XPJjmuOiyEAnhlLznOqw6mf8gSN32Blrpg9I4epHxA/edit?usp=drive_link)
+   * Activity instructions - [webpage](pages/taste_PTC_instructions.md) | [doc](https://docs.google.com/document/d/1InvMdQtSvZHIKlvfyIwTLYAkcDLCX2Gg/edit?usp=drive_link&ouid=108188149784816728586&rtpof=true&sd=true)
 
 :nose: **SMELL**
 * Olfaction Bingo

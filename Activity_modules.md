@@ -14,10 +14,10 @@
 
 :eye: **VISION**
 * Prism goggles
-   * [Activity instructions](https://docs.google.com/document/d/1k_rUlvIX57YF4NHbvqgpgQbkAG_N9J1Fe1p33I8tjYg/edit?usp=drive_link)
+   * Activity instructions - [webpage](pages/vision_prism_instructions.md) | [doc](https://docs.google.com/document/d/1k_rUlvIX57YF4NHbvqgpgQbkAG_N9J1Fe1p33I8tjYg/edit?usp=drive_link)
 * Illusion Confusion
+   * Activity instructions - [webpage](pages/vision_illusions_instructions.md) | [doc](https://docs.google.com/document/d/1NW7liNOqJrDobcYyGGYq7sZABNd8ORAa/edit?usp=drive_link&ouid=108188149784816728586&rtpof=true&sd=true)
    * [Poster](https://drive.google.com/file/d/1RIqVMkAphiEnrynS1FaeDr226lzaJ9HI/view?usp=drive_link)
-   * [Activity instructions](https://docs.google.com/document/d/1NW7liNOqJrDobcYyGGYq7sZABNd8ORAa/edit?usp=drive_link&ouid=108188149784816728586&rtpof=true&sd=true)
    * [Supplemental materials](https://drive.google.com/drive/folders/1COfCCF7-C0BYqWrxwwAArXl47YcxM9lB?usp=drive_link)
 
 :tongue: **TASTE**

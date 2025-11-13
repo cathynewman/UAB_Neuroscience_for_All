@@ -36,7 +36,7 @@ In this activity, participants will investigate the genetic basis of taste by te
 * **Dominant** means that a person will be a taster if they have *one or more* copies of the *T* allele. Basically, the dominant *T* allele "masks" the non-tasting effect of the recessive *t* allele when both alleles are present.
 * But this masking effect is **incomplete**, which means that generally a person with *TT* genotype will perceive PTC as more strongly bitter than a person with the *Tt* genotype (heterozygous genotype).
 
-![PTC diagram](images/ptc3_genotypes.png)
+![PTC diagram](images/ptc3_genotypes.jpg)
 
 ## Other interesting facts about PTC
 * Only about half of Aboriginal peoples from Australia and New Guinea are tasters.

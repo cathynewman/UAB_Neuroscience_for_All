@@ -31,9 +31,9 @@
 
 :nose: **SMELL**
 * Olfaction Bingo
-   * [Background information](https://docs.google.com/presentation/d/1Sidnt_POpsuE_0RQba9EguXjfIpXag4FhjMDNEP6WrI/edit?usp=drive_link)
-   * [Activity instructions](https://docs.google.com/document/d/19JxgoKAqscLEqv7lDcD_wqAKNh4Qx0ZsyRzFDojuHr4/edit?usp=drive_link)
-   * [Bingo card](https://drive.google.com/file/d/1Jbx1KikqGvqqFSbGoF11cijEZAOH1VDY/view?usp=drive_link)
+   * Background information - [slides](https://docs.google.com/presentation/d/1Sidnt_POpsuE_0RQba9EguXjfIpXag4FhjMDNEP6WrI/edit?usp=drive_link)
+   * Activity instructions - [webpage](pages/smell_instructions.md)[doc](https://docs.google.com/document/d/19JxgoKAqscLEqv7lDcD_wqAKNh4Qx0ZsyRzFDojuHr4/edit?usp=drive_link)
+   * Bingo card - [pdf](https://drive.google.com/file/d/1Jbx1KikqGvqqFSbGoF11cijEZAOH1VDY/view?usp=drive_link)
 
 :ear: **HEARING**
 * Sound Bingo (Listening Lotto)

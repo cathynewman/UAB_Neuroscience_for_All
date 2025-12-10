@@ -37,8 +37,8 @@
 
 :ear: **HEARING**
 * Sound Bingo (Listening Lotto)
-   * [Background information](https://docs.google.com/presentation/d/1xpymPcmM1WMOyz8hZuhskbytjXEFu75j0EeV9EjThkA/edit?usp=drive_link)
-   * [Activity instructions](https://docs.google.com/document/d/1mpoTXrOkRvXcGzhYPYZd__AGymC_qePnEtfwW6HFUL8/edit?usp=drive_link)
+   * Background information - [slides](https://docs.google.com/presentation/d/1xpymPcmM1WMOyz8hZuhskbytjXEFu75j0EeV9EjThkA/edit?usp=drive_link)
+   * Activity instructions - [webpage](pages/hearing_instructions.md) | [doc](https://docs.google.com/document/d/1mpoTXrOkRvXcGzhYPYZd__AGymC_qePnEtfwW6HFUL8/edit?usp=drive_link)
    * [Sound files](https://drive.google.com/drive/folders/1WUu1LvJMJYjTq6n4tg0MeCeuG_4fCt4i?usp=drive_link)
 
 :muscle: **MUSCLE**

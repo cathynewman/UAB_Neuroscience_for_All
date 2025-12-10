@@ -43,23 +43,23 @@
 
 :muscle: **MUSCLE**
 * EMG recording
-   * [Activity instructions](https://docs.google.com/document/d/17eUPIg_rpVy4ZqOGtEoh0zBCDSxbbJAmzbOuvGP8GWc/edit?usp=drive_link)
+   * Activity instructions - [webpage](pages/muscle_EMG_instructions.md) | [doc](https://docs.google.com/document/d/17eUPIg_rpVy4ZqOGtEoh0zBCDSxbbJAmzbOuvGP8GWc/edit?usp=drive_link)
    * [Supplemental materials](https://drive.google.com/drive/folders/1lIvjLYYGPsIVS2uD04v-y0pi2cwbSGKA?usp=drive_link)
 * Noisy Neurons
-   * [Background information](https://docs.google.com/document/d/1uoYBUJUt4o7SXCu94J6Ww26tCt0OdsNTeOHTmbQvsr8/edit?usp=drive_link)
-   * [Activity instructions](https://docs.google.com/document/d/15o6kC4DtGSbxLu4hO1laHg9d1gh0Jpwd9B99-RWQzTI/edit?usp=drive_link)
+   * Background information - [webpage](pages/muscle_noisy_neurons_background.md) | [doc](https://docs.google.com/document/d/1uoYBUJUt4o7SXCu94J6Ww26tCt0OdsNTeOHTmbQvsr8/edit?usp=drive_link)
+   * Activity instructions - [webpage](pages/muscle_noisy_neurons_instructions.md) | [doc](https://docs.google.com/document/d/15o6kC4DtGSbxLu4hO1laHg9d1gh0Jpwd9B99-RWQzTI/edit?usp=drive_link)
    * [Supplemental materials](https://drive.google.com/drive/folders/1HOS_XIMy86J5M4X09v8q7W6lerG3u2uD?usp=drive_link)
 
 ## Dissections
 
 :brain: **SHEEP BRAIN**
-* [Activity instructions](https://docs.google.com/document/d/144-LkM31guHN8A79M-iGNpfy0m4JXRnk/edit?usp=drive_link&ouid=108188149784816728586&rtpof=true&sd=true)
-* [Brain anatomy guide](https://drive.google.com/file/d/1lXdLGw0GNl2PHCr_Qvv-MgMslLxPmIHV/view?usp=drive_link)
-* [Brain diagram](https://docs.google.com/document/d/1P5jD2vnABoOqQ2dvkGkGwBO5JeDKG-xcVbNqYqhsaqY/edit?usp=drive_link)
+* Neuroanatamy background information - [webpage](pages/brain_dissection_background.md) | [doc](https://docs.google.com/document/d/1P5jD2vnABoOqQ2dvkGkGwBO5JeDKG-xcVbNqYqhsaqY/edit?usp=drive_link)
+* Activity instructions - [webpage](pages/brain_dissection_instructions.md) | [doc](https://docs.google.com/document/d/144-LkM31guHN8A79M-iGNpfy0m4JXRnk/edit?usp=drive_link&ouid=108188149784816728586&rtpof=true&sd=true)
+* Brain anatomy guide - [pdf](https://drive.google.com/file/d/1lXdLGw0GNl2PHCr_Qvv-MgMslLxPmIHV/view?usp=drive_link)
 * [Dissection videos](https://drive.google.com/drive/folders/18j-YQGCSvbY9ZT1TCez9jZg9YoktN9hE?usp=drive_link)
 * [Supplemental materials](https://drive.google.com/drive/folders/1CvbdQhCHwADI22Zf-NxFVXrMkoAEqBOf?usp=drive_link)
 
 :eye: **SHEEP/COW EYE**
-* [Activity instructions](https://docs.google.com/document/d/1_UlrxOHuMk-2Ff86_8Fd0wAQo6-Q-8dR/edit?usp=drive_link&ouid=108188149784816728586&rtpof=true&sd=true)
-* [Eye diagram](https://drive.google.com/file/d/1PIKekNUSJwFsw5S8rR-zwi4wmobc1VkZ/view?usp=drive_link)
+* Activity instructions - [webpage](pages/eye_dissection_instructions.md) | [doc](https://docs.google.com/document/d/1_UlrxOHuMk-2Ff86_8Fd0wAQo6-Q-8dR/edit?usp=drive_link&ouid=108188149784816728586&rtpof=true&sd=true)
+* Eye diagram - [static gif](https://drive.google.com/file/d/1PIKekNUSJwFsw5S8rR-zwi4wmobc1VkZ/view?usp=drive_link)
 * [Supplemental materials](https://drive.google.com/drive/folders/1ecebZh6IjGeRA6DUGgYULgEJ5OJVoEG1?usp=drive_link)

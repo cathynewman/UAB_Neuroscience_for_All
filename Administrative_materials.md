@@ -9,8 +9,12 @@
 
 ## Brain Bites
 
+* *Coming soon!*
 
 ## Brain Chats
 
+* *Coming soon!*
 
 ## Brain Snacks
+
+* *Coming soon!*
